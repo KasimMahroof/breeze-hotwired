@@ -1,16 +1,16 @@
 {
-    "name": "laravel/breeze",
+    "name": "kasimmahroof/breeze-hotwired",
     "description": "Minimal Laravel authentication scaffolding with Blade and Tailwind.",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/breeze/issues",
-        "source": "https://github.com/laravel/breeze"
+        "issues": "https://github.com/kasimmahroof/breeze-hotwired/issues",
+        "source": "https://github.com/kasimmahroof/breeze-hotwired"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Kasim Mahroof",
+            "email": "kasim@kasimmahroof.com"
         }
     ],
     "require": {
